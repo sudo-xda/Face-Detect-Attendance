@@ -1,0 +1,13 @@
+Jeevan 2020-07-16 10:31:43 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:32:00 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:32:03 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:32:09 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:32:10 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:35:38 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:35:40 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:35:41 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:36:37 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:36:47 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:36:52 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:53:04 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
+Jeevan 2020-07-16 10:53:12 <_io.TextIOWrapper name='2020-07-16filename.txt' mode='a' encoding='UTF-8'>
